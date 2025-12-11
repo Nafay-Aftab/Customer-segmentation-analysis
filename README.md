@@ -4,7 +4,7 @@
 
 **Transform customer data into actionable insights with AI-powered segmentation and predictive analytics.**
 
-[Dashboard Demo](https://customer-segmentation-analysis-p6yjtceyh4tkpyubt5fqm4.streamlit.app/)
+[Dashboard Demo](https://customer-segmentation-analysis-rbmulv6a43whpfe6o42tdm.streamlit.app/)
 
 </div>
 
@@ -275,6 +275,7 @@ Made with ❤️ and Python
 
 
 </div>
+
 
 
 
