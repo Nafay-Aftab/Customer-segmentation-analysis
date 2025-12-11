@@ -68,7 +68,7 @@ This tool empowers businesses to:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/Nafay-Aftab/retail-intelligence-dashboard.git](https://github.com/Nafay-Aftab/retail-intelligence-dashboard.git)
+git clone https://github.com/Nafay-Aftab/retail-intelligence-dashboard.git
 cd retail-intelligence-dashboard
 ```
 
@@ -275,6 +275,7 @@ Made with ❤️ and Python
 
 
 </div>
+
 
 
 
